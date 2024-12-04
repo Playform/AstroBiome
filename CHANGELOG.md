@@ -1,27 +1,27 @@
 ## 0.0.7
 
--   Cleanup
+- Cleanup
 
 ## 0.0.6
 
--   Cleanup
+- Cleanup
 
 ## 0.0.5
 
--   Cleanup
+- Cleanup
 
 ## 0.0.4
 
--   Cleanup
+- Cleanup
 
 ## 0.0.3
 
--   Cleanup
+- Cleanup
 
 ## 0.0.2
 
--   Cleanup
+- Cleanup
 
 ## 0.0.1
 
--   Initial version
+- Initial version

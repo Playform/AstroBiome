@@ -1,13 +1,13 @@
 ## 0.0.8
 
-### Changed
+### Change
 
 - Updated to Biome 1.9.4.
 - Enforced stricter code style with `useFilenamingConvention`.
 - Updated dependencies.
 - Improved developer experience with better logging and error handling.
 
-### Added
+### Add
 
 - `Run` script to package.json for building with watch mode.
 - Provenance to package.json.
@@ -18,7 +18,7 @@
 
 ## 0.0.7
 
-### Changed
+### Change
 
 - Updated to Biome 1.8.3.
 - Improved logging for debugging.
@@ -30,33 +30,33 @@
 
 ## 0.0.6
 
-### Changed
+### Change
 
 - Updated to Biome 1.8.2.
 - Improved code organization.
 - Updated `@playform/pipe` dependency to 0.0.6.
 - Updated `@playform/build` dependency to 0.0.11.
 
-### Added
+### Add
 
 - Introduced a new `Merge` function for merging configuration objects.
 
 ## 0.0.5
 
-### Changed
+### Change
 
 - Updated dependencies, including bumping Biome to 1.8.0, Astro to "\*", and
   `deepmerge-ts` to 7.0.3.
 
 ## 0.0.4
 
-### Changed
+### Change
 
 - Bumped version.
 
 ## 0.0.3
 
-### Changed
+### Change
 
 - Updated to Biome 1.7.3.
 - Restructured codebase.
@@ -64,18 +64,18 @@
 - Updated dependencies: bumped `@playform/pipe` to 0.0.5, `astro` to 4.9.2,
   `deepmerge-ts` to 7.0.1, and `@playform/build` to 0.0.10.
 
-### Added
+### Add
 
 - Support for Astro integration.
 - `astro-biome`, `astro-format`, and `format` scripts to package.json.
 
 ## 0.0.2
 
-### Changed
+### Change
 
 - Updated dependencies.
 
-### Added
+### Add
 
 - Astro integrations.
 - `astro-component`, `astro-integration`, and `withastro` scripts to
@@ -83,6 +83,6 @@
 
 ## 0.0.1
 
-### Added
+### Add
 
 - Initial release of Format.

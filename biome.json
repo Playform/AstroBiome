@@ -68,7 +68,9 @@
 			"correctness": {
 				"all": true,
 				"noNodejsModules": "off",
-				"noUnusedVariables": "off"
+				"noUndeclaredDependencies": "off",
+				"noUnusedVariables": "off",
+				"useJsxKeyInIterable": "off"
 			},
 			"nursery": {
 				"all": true,
